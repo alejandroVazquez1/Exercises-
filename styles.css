@@ -14,11 +14,10 @@ body.dark-mode {
 
 
 h1#article-title {
-  font-size: 48px;
+  font-size: 50px;
 }
 
 p {
-  background: yellow;
   line-height: 2.0;
   margin-bottom: 1.3;
 }
